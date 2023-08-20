@@ -50,6 +50,6 @@ I'm an undergraduate CS student, being enthusiastic in font-end development and 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,jenkins,neovim,sass,spring,sqlite,tailwind,threejs,react,ts,vie,webpack,mongodb,maven" />
+    <img src="https://skillicons.dev/icons?i=babel,jenkins,neovim,sass,spring,sqlite,tailwind,threejs,react,ts,vite,webpack,mongodb,maven" />
   </a>
 </p>
