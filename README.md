@@ -18,7 +18,7 @@ I'm an undergraduate CS student, being enthusiastic in font-end development and 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,vim,tmux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,vim" />
   </a>
 </p>
 <p align="center"> 
