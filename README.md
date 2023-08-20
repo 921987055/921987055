@@ -18,7 +18,15 @@ I'm an undergraduate CS student, being enthusiastic in font-end development and 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,md,py,html,css,js,vue,vim,tmux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,vim,tmux" />
+  </a>
+</p>
+<p align="center"> 
+<strong> Familiar </strong>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,py" />
   </a>
 </p>
 <p align="center"> 
@@ -26,7 +34,7 @@ I'm an undergraduate CS student, being enthusiastic in font-end development and 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git" />
+    <img src="https://skillicons.dev/icons?i=bash,git,md" />
   </a>
 </p>
 <p align="center"> 
@@ -34,6 +42,14 @@ I'm an undergraduate CS student, being enthusiastic in font-end development and 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,mysql,react" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,mysql,react,godot,nodejs,pytorch,unity" />
+  </a>
+</p>
+<p align="center"> 
+<strong> Ready to Start </strong>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=babel,jenkins,neovim,sass,spring,sqlite,tailwind,threejs,react,ts,vie,webpack,mongodb,maven" />
   </a>
 </p>
